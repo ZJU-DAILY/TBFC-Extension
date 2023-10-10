@@ -1,0 +1,10 @@
+/cmake-build-debug
+/cmake-build-release
+/build
+/bin
+/data
+/.vscode
+/output
+/test
+/bash
+proc_memlog.txt
